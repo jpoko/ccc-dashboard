@@ -1,0 +1,3 @@
+<span style="color:red">*Warning:* Although the selected scale was administered at the baseline and 1-year follow-up time points, the meaning differs between the two time points. Baseline data reflected experiences over the participant’s lifetime, whereas 1-year data reflected experiences over the past year. Therefore, it is not appropriate to directly compare values between the two time points.</span>  
+
+<br/>

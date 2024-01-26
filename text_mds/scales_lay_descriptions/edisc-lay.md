@@ -1,0 +1,3 @@
+**Description:** Everyday discrimination was measured with the Everyday Discrimination Scale (EDS), which includes 10 questions to measure exposure to chronic life discrimination (Williams et al., 1997). Each question presents a discriminatory event that can occur in day-to-day life. For each question, follow up questions ask for what reason the respondents attribute these experiences (e.g., to gender, ethnicity, age, weight, religion). When using the frequency-based scoring method, possible scores range from 10 to 60. When using the chronicity-based scoring method, possible scores range from 0 to 2600.  Higher scores indicate greater exposure to chronic discrimination throughout life. 
+
+

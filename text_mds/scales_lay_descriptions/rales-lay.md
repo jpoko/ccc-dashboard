@@ -1,0 +1,1 @@
+**Description:** Racism-related stress was measured with the 20-item Racism and Life Experiences Scale (RaLES). Two scores are obtained: the average frequency of experiencing the situations described (range 0-4), and the average stress the experiences caused (range 0-4). Higher scores indicate more frequent experiences and higher stress from the experiences.  

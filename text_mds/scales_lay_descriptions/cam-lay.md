@@ -1,0 +1,1 @@
+**Description:** Lifetime history of adversity was measured by the Cumulative Lifetime Adversity Measure (CLAM), which includes 62 items that measure exposure to negative life experiences and the option to provide 2 additional experiences not already included. The total number of events is calculated, with higher scores indicating having experienced more adverse events.  

@@ -1,0 +1,163 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## Ethnicity  
+
+### Data collected  
+
+When individuals applied to participate in the study, they were asked to
+provide their ethnic heritage/race by selecting from a list of options.
+They were able to select all that applied as well as provide their own
+description.  
+
+**Question prompt:** How would you identify your ethnic heritage or
+race? (choose all that apply)  
+
+**Response options (check box, select all that apply):**  
+
+-   Hispanic or Latino  
+-   Black or African American  
+-   Afro-Caribbean  
+-   White - European  
+-   White - Middle Eastern  
+-   Chinese  
+-   Filipino  
+-   Vietnamese  
+-   Korean  
+-   Japanese  
+-   Other Asian  
+-   Native Hawaiian  
+-   Samoan  
+-   Chamorro  
+-   Other Pacific Islander  
+-   Other: (fill in response)  
+-   Prefer not to say  
+
+### Data processing  
+
+The number of possible ethnicity combinations that people selected
+ranged from 48 (participants who started the study) to 70 (all
+applicants). Some of these combinations only had 1 individual who
+provided that particular combination. From these combinations, we then
+aggregated people's responses into categories approximating the US
+Census categories, which are:  
+
+-   **White.** A person having origins in any of the original peoples of
+    Europe, the Middle East, or North Africa. It includes people who
+    indicate their race as "White" or report responses such as German,
+    Irish, English, Italian, Lebanese, and Egyptian. The category also
+    includes groups such as Polish, French, Iranian, Slavic, Cajun,
+    Chaldean, etc.  
+
+-   **Black or African American.** A person having origins in any of the
+    Black racial groups of Africa. It includes people who indicate their
+    race as "Black or African American," or report responses such as
+    African American, Jamaican, Haitian, Nigerian, Ethiopian, or Somali.
+    The category also includes groups such as Ghanaian, South African,
+    Barbadian, Kenyan, Liberian, Bahamian, etc.  
+
+-   **American Indian and Alaska Native.** A person having origins in
+    any of the original peoples of North and South America (including
+    Central America) and who maintains tribal affiliation or community
+    attachment. This category includes people who indicate their race as
+    "American Indian or Alaska Native" or report entries such as Navajo
+    Nation, Blackfeet Tribe, Mayan, Aztec, Native Village of Barrow
+    Inupiat Traditional Government, or Nome Eskimo Community.  
+
+-   **Asian.** A person having origins in any of the original peoples of
+    the Far East, Southeast Asia, or the Indian subcontinent including,
+    for example, India, China, the Philippine Islands, Japan, Korea, or
+    Vietnam. It includes people who indicate their race as "Asian
+    Indian," "Chinese," "Filipino," "Korean," "Japanese," "Vietnamese,"
+    and "Other Asian" or provide other detailed Asian responses such as
+    Pakistani, Cambodian, Hmong, Thai, Bengali, Mien, etc.  
+
+-   **Native Hawaiian and Other Pacific Islander.** A person having
+    origins in any of the original peoples of Hawaii, Guam, Samoa, or
+    other Pacific Islands. It includes people who indicate their race as
+    "Native Hawaiian," "Chamorro," "Samoan," and "Other Pacific
+    Islander" or provide other detailed Pacific Islander responses such
+    as Palauan, Tahitian, Chuukese, Pohnpeian, Saipanese, Yapese, etc.  
+
+-   **Two or more races.** People may choose to provide two or more
+    races either by checking two or more race response check boxes, by
+    providing multiple responses, or by some combination of check boxes
+    and other responses. The race response categories shown on the
+    questionnaire are collapsed into the five minimum race groups
+    identified by OMB, and the Census Bureau's "Some Other Race"
+    category. For data product purposes, "Two or More Races" refers to
+    combinations of two or more of the following race categories: White,
+    Black or African American, American Indian or Alaska Native, Asian,
+    Native Hawaiian or Other Pacific Islander, or Some Other Race.  
+
+Reference: <https://www.census.gov/quickfacts/fact/note/US/RHI625222>  
+
+Participants' responses were aggregated to approximate the US Census
+categories with the following changes:  
+
+-   **Hispanic or Latino** was added as a category.  
+
+-   **American Indian and Alaska Native** and **Native Hawaiian and
+    Other Pacific Islander** were combined with individuals who selected
+    **Two or more races** to to create a single variable called
+    **Indigenous, Pacific Islander, or Multi-ethnic** to protect the
+    privacy of the Indigenous peoples because there were so few in each
+    category.  
+
+There are two reasons that we reduced the number of categories:  
+
+Privacy: In several cases there were only 1 or 2 people who endorsed a
+particular category, so we combined smaller categories into a larger
+group to protect people's identities and privacy.  
+
+Statistical purposes: For most statistical analyses, it is important to
+have groups of similar sizes, and reducing the number of categories made
+that more likely.  
+
+### Final categories  
+
+-   Asian  
+-   Black, African American, or Afro-Caribbean  
+-   Hispanic or Latino  
+-   Indigenous, Pacific Islander, or Multi-ethnic  
+-   White  
+-   Prefer not to say  
+
+***Rules for categorization:***  
+
+-   People who selected **Black or African American** or
+    **Afro-Caribbean** or who described themselves as Nigerian were
+    categorized as **Black, African American, or Afro-Caribbean**.  
+
+-   People who selected **White - European** or **White - Middle
+    Eastern** or who described themselves as Jewish, Armenian, or
+    Eastern European were categorized as **White**.  
+
+-   People who selected **Asian Indian**, **Chinese**, **Filipino**,
+    **Vietnamese**, **Korean**, **Japanese**, or **Other Asian** or
+    described themselves as Hmong, Nepali, Thai, or Macanesewere
+    categorized as **Asian**.  
+
+-   People who selected **Hispanic or Latino**, or who described
+    themselves as Hispanic or Latino, Puerto Rican or Hispanic or
+    Latino, Chicano were categorized as **Hispanic or Latino**.  
+
+-   People who selected **American Indian or Alaskan Native** or
+    described themselves as Comanche or Chamorro were categorized as
+    **Indigenous, Pacific Islander, or Multi-ethnic**.  
+
+-   Anyone who reported more than two ethnicity categories was
+    classified as multi-ethnic and thus categorized as **Indigenous,
+    Pacific Islander, or Multi-ethnic**., with the exception that those
+    who selected a choice from the list provided AND 'other' but did not
+    fill in the other category, were categorized according to their
+    selection from the list (i.e., if a participant selected White and
+    Other but did not fill in the other ethnicity category then they
+    were categorized as White).  
+
+Please see the sankey diagram ('Categorization' tab above) to see
+exactly how the responses were categorized into our 6 ethnicity
+categories.  

@@ -1,0 +1,10 @@
+/* change collapse toggle of sidebar layout */
+.bslib-sidebar-layout > .collapse-toggle {
+    top: 0;
+    background-color: #58758b;
+}
+
+.bslib-sidebar-layout > .collapse-toggle > .collapse-icon {
+    fill: white !important;
+}
+
