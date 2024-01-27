@@ -20,7 +20,8 @@ thematic::thematic_shiny()
 
 # UI ----
 ui <- page_navbar(
-    title = "Contemplative Coping during Covid-19",
+    
+    #tags$head(includeScript("google-analytics.html")),
     
     theme = bs_theme(
         version = 5,
@@ -51,6 +52,8 @@ ui <- page_navbar(
         ), 
     
     includeCSS("styles.css"),
+    
+    title = "CCC Project",
 
     nav_panel("Home", home_ui("home")),
     nav_panel("About", about_ui("about")),
