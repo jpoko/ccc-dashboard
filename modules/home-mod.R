@@ -84,6 +84,7 @@ home_ui <- function(id) {
     div(
         class="container text",
         style="width:75%",
+        br(),
         h4(strong("Contemplative Coping during COVID-19"),class="text-center"),
         p(strong("Exploring relationships between stress, meditation, and well-being
                during the COVID-19 pandemic"),class="text-center")
@@ -96,7 +97,7 @@ home_ui <- function(id) {
         div(
             class = "col-8",
             img(
-                src='shiny-home-art.png',
+                src='shiny-home-art-FFFFFB-cropped.png',
                 class = 'img-fluid',
                 style = "max-width: 100%; max-height: 300px; height: auto; display: block; margin-left: auto; margin-right: auto;"
             )
